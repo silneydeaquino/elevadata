@@ -560,4 +560,5 @@
       .method-steps::before { display: none; }
       .hero-stats { position: static; margin-top: 3rem; justify-content: flex-start; }
       nav ul { display: none; }
+      .hero-stats { display: none; }
     }
